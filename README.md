@@ -1,2 +1,2 @@
 # bottle-pythonapp
-Python web app example using bottle web framework
+Python web app example using the bottle web framework
